@@ -1,0 +1,146 @@
+.link{
+   text-decoration: none;
+   color: black;
+}
+
+.seachbar{
+   position: absolute;
+   margin-top: 20em;
+   margin-left: 8%;
+   /*box-shadow: whitesmoke;*/
+   border: 1px solid white;
+   background-color: white;
+   border-radius: 2em;
+   border-width: 80px;
+   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2) !important;
+
+}
+
+.Imgsld{
+   margin-top: 10em;
+}
+
+.img{
+   /*margin-top: 10em;*/
+   position: relative;
+   background-size: cover;
+   background-repeat: no-repeat;
+   /*object-fit: cover;*/
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+           url("https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+   width: 100%;
+   height: 80vh;
+}
+.title1{
+   position: absolute;
+   margin-left: 19em;
+   margin-top: 8em;
+   color: white;
+}
+.title2{
+   position: absolute;
+   margin-left: 24.5em;
+   margin-top: 13em;
+   color: white;
+}
+
+.i2{
+   width: 100%;
+   margin-top: 5%;
+   /*border: 1px solid black;*/
+   display: flex;
+}
+
+.i1{
+   width: 90%;
+   margin-top: 2%;
+   display: flex;
+   margin-left: 4%;
+}
+.i3{
+   background-image:
+           url("https://cf.bstatic.com/xdata/images/city/540x270/816270.webp?k=eda8337cdf2f4d38066f61abc47f9d477ce608a68f6715eaab6a38fd202f002c&o");
+   width:37em ;
+   height:20em ;
+   margin-left:4% ;
+   color: white;
+    background-repeat: round;
+   background-size: cover;
+   border-radius: 12px;
+
+}
+.i4{
+    background-image:url("https://cf.bstatic.com/xdata/images/city/540x270/931224.webp?k=02dd3a767e0570dda33d8fecda8f80f172a8c532d2d6f7cd99a8d9e1189b98f8&o");
+   width:37em ;
+   height:20em ;
+   margin-left:3% ;
+   background-size: cover;
+   border-radius: 12px;
+   color: white;
+    background-repeat: round;
+}
+.i5{
+   background-image: url("https://cf.bstatic.com/xdata/images/city/540x270/913568.webp?k=cd98aca9847498b8645d5ace7f556a0a8345dcc7d7ed1873b308407aef3b7bbf&o");
+   width:30em ;
+   height:20em ;
+   margin-left:1% ;
+   background-size: cover;
+   border-radius: 12px;
+   color: white;
+    background-repeat: round;
+}
+.i6{
+   background-image: url("https://cf.bstatic.com/xdata/images/city/540x270/744580.webp?k=368b1fba2b4ef25989e569222a6e0945560023ca4e634ea9b620b9ce5593f263&o");
+width:30em ;
+   height:20em ;
+   margin-left:1% ;
+   background-size: cover;
+   border-radius: 12px;
+   color: white;
+    background-repeat: round;
+}
+
+.i7{
+   background-image: url("https://cf.bstatic.com/xdata/images/city/540x270/689760.webp?k=89f19b77655f0ec74efd83c9d34ce3f11b4ba5f790043ff3a498abde59d4c0bb&o");
+width:30em ;
+   height:20em ;
+   margin-left:1% ;
+   background-size: cover;
+   border-radius: 12px;
+   color: white;
+    background-repeat: round;
+}
+.title{
+   margin-left: 3%;
+   margin-bottom: 2%;
+   font-size: 28px;
+   font-style: oblique;
+   text-shadow: 1px 1px 1px #020202;
+   font-family: "Segoe UI";
+   font-weight: bold;
+}
+
+.subtitle{
+   font-size: 18px;
+   margin-left: 3%;
+    text-shadow: 1px 1px 1px #020202;
+   font-family: "Segoe UI";
+}
+
+.slimg{
+   width: 65em;
+   height: 25em;
+
+}
+
+.logo{
+   height: 3em;
+   width: 9em;
+}
+
+.btn{
+   width: 90px!important;
+   height: 30px!important;
+   font-size: 10px!important;
+   margin-left: 100% !important;
+}
